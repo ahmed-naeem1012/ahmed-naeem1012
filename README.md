@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmed-naeem1012
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👀 I’m interested in mobile development.
+- 🌱 I’m currently learning flutter and swift.
+
 
 <!---
 ahmed-naeem1012/ahmed-naeem1012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
