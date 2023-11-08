@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Naeem
-- 👀 I’m interested in mobile development and currently a developer of Android & Flutter.
-- 🌱 I’m currently learning and working as AI devloper and working in domains of Flutter , Android with different models of NLP.
+- I’m interested in mobile development and currently a developer of Android & Flutter.
+- I’m currently learning and working as AI devloper and working in domains of Flutter , Android with different models of NLP.
 
 
 <!---
